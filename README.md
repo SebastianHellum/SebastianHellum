@@ -1,4 +1,4 @@
-<img src="https://github.com/SebastianHellum/SebastianHellum/blob/main/img/greeting.png"/>
+<img src="https://github.com/SebastianHellum/SebastianHellum/blob/main/img/hello.png"/>
 
 ### Hello 🤖
 I’m Seb and I study frontend development at Høyskolen Kristiania. In my free time I code and try to learn new stuff. 

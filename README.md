@@ -18,10 +18,10 @@ Try to scan some of them 📱\
 <img src=https://github.com/SebastianHellum/Hasle-ol-og-tennis/blob/master/QR/qr-DRIT.png width="150" height="150" />
 
 ### I’m currently learning 🤔
-* [x] React 
-* [x] Java 
-* [x] Kotlin 
-* [x] SCSS
+* [ ] React 
+* [ ] Java 
+* [ ] Kotlin 
+* [ ] SCSS
 
 
 <!--

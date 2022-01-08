@@ -4,6 +4,7 @@
 I’m Seb and I study frontend development at Høyskolen Kristiania. In my free time I code and try to learn new stuff. 
 
 ### Current projects I’m working on 💻
+https://turnusgutta.vercel.app/ \
 https://running2022.netlify.app/ \
 https://hasletennis.com/ 
 
@@ -16,12 +17,6 @@ Try to scan some of them 📱\
 <img src=https://github.com/SebastianHellum/Hasle-ol-og-tennis/blob/master/QR/qr-fromRaelingen.png width="150" height="150" />
 <img src=https://github.com/SebastianHellum/Hasle-ol-og-tennis/blob/master/QR/qr-pærnod.png width="150" height="150" />
 <img src=https://github.com/SebastianHellum/Hasle-ol-og-tennis/blob/master/QR/qr-DRIT.png width="150" height="150" />
-
-### I’m currently learning 🤔
-* [ ] React 
-* [ ] Java 
-* [ ] Kotlin 
-* [ ] SCSS
 
 
 <!--

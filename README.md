@@ -11,7 +11,7 @@ https://hasletennis.com/
 ### Pixel art is always fun 👾
 We have unique sites for each of our beers. And we have therefore created QR-codes for each site.\
 Try to scan some of them 📱\
-<img src=https://github.com/SebastianHellum/Hasle-ol-og-tennis/blob/master/QR/qr-Mo.png width="150" height="150" />
+<a href="htttps://hasletennis.com/mo" target="_blank"><img src=https://github.com/SebastianHellum/Hasle-ol-og-tennis/blob/master/QR/qr-Mo.png width="150" height="150" /></a>
 <img src=https://github.com/SebastianHellum/Hasle-ol-og-tennis/blob/master/QR/qr-jul2021.png width="150" height="150" />
 <img src=https://github.com/SebastianHellum/Hasle-ol-og-tennis/blob/master/QR/qr-oltid.png width="150" height="150" />\
 <img src=https://github.com/SebastianHellum/Hasle-ol-og-tennis/blob/master/QR/qr-fromRaelingen.png width="150" height="150" />

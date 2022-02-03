@@ -4,9 +4,9 @@
 I’m Seb and I study frontend development at Høyskolen Kristiania. In my free time I code and try to learn new stuff. 
 
 ### Current projects I’m working on 💻
-https://turnusgutta.vercel.app/ \
-https://running2022.netlify.app/ \
-https://hasletennis.com/ 
+<a href="https://turnusgutta.vercel.app" target="_blank">turnusgutta.vercel.app</a> \
+<a href="https://running2022.netlify.app" target="_blank">running2022.netlify.app</a> \
+<a href="https://hasletennis.com">hasletennis.com</a> 
 
 ### Pixel art is always fun 👾
 We have unique sites for each of our beers. And we have therefore created QR-codes for each site.\

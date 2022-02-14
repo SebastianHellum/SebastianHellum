@@ -5,6 +5,7 @@ I’m Seb and I study frontend development at Høyskolen Kristiania. In my free 
 
 ### Current projects I’m working on 💻
 <a href="https://turnusgutta.vercel.app" target="_blank">turnusgutta.vercel.app</a> \
+<a href="https://1001albums.netlify.app" target="_blank">1001albums.netlify.app</a> \
 <a href="https://running2022.netlify.app" target="_blank">running2022.netlify.app</a> \
 <a href="https://hasletennis.com">hasletennis.com</a> 
 
